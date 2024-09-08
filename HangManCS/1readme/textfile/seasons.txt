@@ -1,0 +1,97 @@
+1,Acorns
+2,Air Conditioner
+3,Apples
+4,August
+5,Autumn
+6,Basketball
+7,Bees
+8,Bike Riding
+9,Birds
+10,Bloom
+11,Blossom
+12,Boat
+13,Boating
+14,Bonfire
+15,Brisk
+16,Browns
+17,Buds
+18,Burrs
+19,Bush
+20,Bushes
+21,Campfire
+22,Camping
+23,Cardinal
+24,Cherry
+25,Chicken
+26,Cider
+27,Clean Up
+28,College
+29,Colors
+30,Cool
+31,Corn
+32,Crisp
+33,Crops
+34,Elections
+35,Fall
+36,Fans
+37,Field
+38,Fishing
+39,Flies
+40,Flowers
+41,Foliage
+42,Football
+43,Garden
+44,Geese
+45,Golf
+46,Grains
+47,Grass
+48,Greens
+49,Halloween
+50,Harvest
+51,Hay Fever
+52,Hay Rides
+53,Heat
+54,Hiking
+55,Hot
+56,Hunt
+57,Hyacinth
+58,July
+59,Kite Flying
+60,Leaves
+61,Leisure
+62,Lettuce
+63,Lilac
+64,No School
+65,Ocean
+66,Onion
+67,Outdoors
+68,Painting
+69,Pansy
+70,Parks
+71,Phlox
+72,Plants
+73,Play
+74,Pumpkins
+75,Radish
+76,Rain
+77,Ranch
+78,Recreation
+79,Relax
+80,Reunions
+81,Robin
+82,Roofing
+83,School
+84,Shower
+85,Sports
+86,Spring
+87,Sprout
+88,Squirrel
+89,Summer
+90,Sunshine
+91,Tennis
+92,Thanksgiving
+93,Tulip
+94,Vacation
+95,Violet
+96,Water Skiing
+97,Woods

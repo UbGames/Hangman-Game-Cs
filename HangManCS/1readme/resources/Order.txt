@@ -1,0 +1,42 @@
+	===========================================================
+			UBGAMES Example Order Form
+	===========================================================
+
+Name (please print)_________________________________________________________
+
+Address ____________________________________________________________________
+
+City ______________________ St./Prov. ________________ ZIP/Code ____________
+
+Country (if not USA) __________________ Phone/Fax __________________________
+
+Email address __________________________________
+
+GAME:		HangMan $9.95 each	____ x $9.95 = $_________
+
+SHIPPING/HANDLING	[ ] USA: $5. Each additional game add $1.
+CHARGES:		[ ] Canada & Mexico: $6. Each additional game add $1.
+			[ ] All other countries: $8. Each additional game add $2.
+
+Total payment: $____________ (Michigan residents MUST add correct sales tax)
+
+Note: Payment must be in U.S. dollars and drawn against an U.S. bank.
+      Please do not send cash!
+
+Payment type: [ ] Check [ ] Money Order
+
+------------------------------------------------------------------------
+ Ordering information - please visit our website http://www.ubgames.com
+------------------------------------------------------------------------
+
+All prices subject to change without notice. All items subject to availability.
+
+What do you like best about HangMan?
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+Thank you!

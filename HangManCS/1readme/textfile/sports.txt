@@ -1,0 +1,495 @@
+1,Action
+2,Aerobic
+3,Aggies
+4,Air Ball
+5,All American
+6,Aloha
+7,Alpine Skiing
+8,Amsterdam
+9,Angels
+10,Antwerp
+11,Appel
+12,Apprentice
+13,Apron
+14,Assist
+15,Astros
+16,Athens
+17,Athletic
+18,Aztecs
+19,Backboard
+20,Badgers
+21,Bags
+22,Balk
+23,Ball
+24,Balls
+25,Bank
+26,Barcelona
+27,Baseball
+28,Baseball Teams
+29,Bases
+30,Basketball
+31,Batter
+32,Bearcats
+33,Bears
+34,Beavers
+35,Belmont Stakes
+36,Bengals
+37,Berlin
+38,Biathlon
+39,Biceps
+40,Big Green
+41,Big Red
+42,Bills
+43,Bind
+44,Birdie
+45,Bisons
+46,Black Hawks
+47,Blackbears
+48,Blade
+49,Blazers
+50,Blue Bonnet
+51,Blue Jays
+52,Blue Raiders
+53,Blues
+54,Bobcats
+55,Bobsledding
+56,Bogey
+57,Boilermakers
+58,Boots
+59,Boxing
+60,Braves
+61,Brawn
+62,Brewers
+63,Broncos
+64,Browns
+65,Bruins
+66,Buccaneers
+67,Buckeyes
+68,Bucks
+69,Buffaloes
+70,Bulldogs
+71,Bullets
+72,Bulls
+73,Bumpers
+74,Bunt
+75,Caddy
+76,Cadets
+77,California
+78,Canadiens
+79,Canoeing
+80,Canucks
+81,Capitals
+82,Cardinals
+83,Cart
+84,Catch
+85,Catcher
+86,Cavaliers
+87,Celtics
+88,Center
+89,Chargers
+90,Chiefs
+91,Chippewas
+92,Citrus
+93,Clippers
+94,Club
+95,Club House
+96,Clubs
+97,Colonels
+98,Colors
+99,Colt
+100,Colts
+101,Compete
+102,Cornhuskers
+103,Cotton
+104,Cougars
+105,Coupe
+106,Course
+107,Cowboys
+108,Crash
+109,Crimson Tide
+110,Cross Country
+111,Crowd
+112,Crusaders
+113,Cubs
+114,Curls
+115,Curve
+116,Curve Ball
+117,Cutover
+118,Cycling
+119,Cyclones
+120,Dagger
+121,Danger
+122,Date
+123,Delta Devils
+124,Demons
+125,Devils
+126,Dirt
+127,Diving
+128,Divot
+129,Dodgers
+130,Dolphins
+131,Double
+132,Downhill
+133,Dribble
+134,Drive
+135,Duel
+136,Dukes
+137,Dust
+138,Eagle
+139,Eagles
+140,Eclipse Award
+141,Elegance
+142,End Run
+143,End Zone
+144,Energy
+145,Engineers
+146,Exciting
+147,Exercise
+148,Expos
+149,Extra Point
+150,Fairway
+151,Falcons
+152,Fall
+153,Fast Ball
+154,Fees
+155,Fencing
+156,Field
+157,Field Goal
+158,Fiesta
+159,Fighting Irish
+160,Figure Skating
+161,Filly
+162,Finale
+163,Finish
+164,Flag
+165,Flags
+166,Flames
+167,Fly Ball
+168,Flyers
+169,Football
+170,Football Teams
+171,Form
+172,Forty Niners
+173,Foul
+174,Foul Ball
+175,Foul Shot
+176,Foursome
+177,Free Game
+178,Freedom
+179,Gambling
+180,Game
+181,Gamecocks
+182,Gator
+183,Gators
+184,Gelding
+185,Giants
+186,Glove
+187,Gloves
+188,Goal Line
+189,Goal Post
+190,Gobblers
+191,Golden Flashes
+192,Golden Gophers
+193,Golf
+194,Governors
+195,Grace
+196,Grand Slam
+197,Grass
+198,Green
+199,Greens
+200,Grizzlies
+201,Gymnastics
+202,Handicap
+203,Hawkeyes
+204,Hawks
+205,Hazard
+206,Heart Rate
+207,Helmet
+208,Hike
+209,Hilt
+210,Hits
+211,Hockey Teams
+212,Hole In One
+213,Holes
+214,Holiday
+215,Home Run
+216,Hook
+217,Hoop
+218,Horned Frogs
+219,Hornets
+220,Horse
+221,Horse Racing
+222,Hurons
+223,Hurricanes
+224,Huskies
+225,Ice Dancing
+226,Ice Hockey
+227,Independence
+228,Indians
+229,Indoor
+230,Infield
+231,Inning
+232,Intense
+233,Irons
+234,Islanders
+235,Jacket
+236,Jaguars
+237,Jazz
+238,Jets
+239,Jockey
+240,Jogging
+241,Judgement
+242,Judo
+243,Jump
+244,Jump Shot
+245,Jumping Jacks
+246,Kentucky Derby
+247,Keydets
+248,Killer Ducks
+249,Kings
+250,Knicks
+251,Knuckle Ball
+252,Lakers
+253,Lance
+254,Leathernecks
+255,Length
+256,Leopards
+257,Liberty
+258,Lifts
+259,Limber
+260,Lions
+261,Lobos
+262,London
+263,Los Angeles
+264,Luge
+265,Lumberjacks
+266,Lunge
+267,Magic
+268,Maple Leafs
+269,Mare
+270,Mariners
+271,Mavericks
+272,Melbourne
+273,Mets
+274,Mexico City
+275,Midshipmen
+276,Miniature Golf
+277,Minutemen
+278,Money Purse
+279,Montreal
+280,Moscow
+281,Motocross
+282,Motorcycles
+283,Mound
+284,Mountaineers
+285,Mud
+286,Munich
+287,Muscle
+288,NBA Basketball
+289,Net
+290,Nets
+291,Nine holes
+292,Nordic Skiing
+293,Nordiques
+294,North Stars
+295,Nuggets
+296,Oilers
+297,Olympic Sites
+298,Orange
+299,Orangemen
+300,Orioles
+301,Outdoor
+302,Outfield
+303,Owls
+304,Pacers
+305,Packers
+306,Padres
+307,Paladins
+308,Palm Ball
+309,Panthers
+310,Paris
+311,Pass
+312,Patriots
+313,Peach
+314,Penalty
+315,Penguins
+316,Phillies
+317,Pigskin
+318,Pipes
+319,Pirates
+320,Pistons
+321,Pitcher
+322,Pitching
+323,Plate
+324,Pond
+325,Practice
+326,Preakness
+327,Press
+328,Proficient
+329,Pull Ups
+330,Pump
+331,Punch
+332,Push
+333,Push Ups
+334,Putt Putt
+335,Putter
+336,Quakers
+337,Quarterback
+338,Racers
+339,Racing
+340,Ragin Cajuns
+341,Raiders
+342,Rams
+343,Range
+344,Rangers
+345,Rattlers
+346,Razorbacks
+347,Rebels
+348,Rebound
+349,Receiver
+350,Red Sox
+351,Red Wings
+352,Redbirds
+353,Reds
+354,Redskins
+355,Referee
+356,Relax
+357,Relay
+358,Resolve
+359,Rim
+360,Rockets
+361,Rome
+362,Rose
+363,Rough
+364,Roughs
+365,Rowing
+366,Royals
+367,Rules
+368,Run Down
+369,Running
+370,Runningback
+371,Runs
+372,Sabres
+373,Sacrifice
+374,Saints
+375,Score
+376,Screw Ball
+377,Seahawks
+378,Seminoles
+379,Seoul
+380,Shoot
+381,Shooting
+382,Shortstop
+383,Single
+384,Sinker
+385,Sixers
+386,Ski Jumping
+387,Skid
+388,Skill
+389,Skip
+390,Slalom
+391,Slam Dunk
+392,Slash
+393,Slice
+394,Slider
+395,Snap
+396,Soccer
+397,Sonics
+398,Sooners
+399,Spartans
+400,Speed
+401,Speed Skating
+402,Spiders
+403,Spitter
+404,Sprinter
+405,Spurs
+406,St Louis
+407,Stab
+408,Stall
+409,Stamina
+410,Steal
+411,Steelers
+412,Steeplechase
+413,Steps
+414,Stockholm
+415,Strength
+416,Strike
+417,Strike Out
+418,Strip
+419,Strong
+420,Sugar
+421,Summer
+422,Summer Olympics
+423,Sun
+424,Sun Devils
+425,Suns
+426,Super
+427,Sweat
+428,Swing
+429,Swish
+430,Sycamores
+431,Table Tennis
+432,Tar Heels
+433,Team
+434,Team Handball
+435,Teenagers
+436,Terps
+437,Terriers
+438,The Count
+439,Thighs
+440,Thoroughbred
+441,Threat
+442,Three Point
+443,Throw
+444,Tigers
+445,Tight End
+446,Titans
+447,Toeing
+448,Tokyo
+449,Touchback
+450,Touchdown
+451,Touche
+452,Track
+453,Track and Field
+454,Trainer
+455,Triceps
+456,Triple
+457,Triple Crown
+458,Trojans
+459,Trophy
+460,Turf
+461,Turns
+462,Twins
+463,Two Point
+464,Umpire
+465,Utes
+466,Vandals
+467,Vikings
+468,Volleyball
+469,Wager
+470,Walk
+471,Warriors
+472,Water Polo
+473,Weight Lifting
+474,Weights
+475,Whalers
+476,Whiff
+477,Whip
+478,White Sox
+479,Wild Pitch
+480,Wildcats
+481,Wind Up
+482,Windmill
+483,Winner
+484,Winter Olympics
+485,Wipe Out
+486,Wolfpack
+487,Wolverines
+488,Woods
+489,Work Out
+490,Wrestling
+491,Yachting
+492,Yankees
+493,Yards
+494,Yellow Jackets
+495,Zips

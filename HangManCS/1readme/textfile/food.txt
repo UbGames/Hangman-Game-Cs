@@ -1,0 +1,642 @@
+1,Alcohol
+2,Allemande
+3,Almonds
+4,American
+5,American Leg
+6,Anchovies
+7,Anchovy
+8,Angel
+9,Antipasto
+10,Apple
+11,Apple Butter
+12,Apple Juice
+13,Apples
+14,Applesauce
+15,Apricot
+16,Apricots
+17,Arm Chop
+18,Asparagus
+19,Aurore
+20,Avocado
+21,Avocados
+22,Bacon
+23,Bacon Burger
+24,Bacteria
+25,Bake
+26,Baked
+27,Baked Alaska
+28,Balls
+29,Banana
+30,Bananas
+31,Barbecue
+32,Barley
+33,Bars
+34,Batter
+35,Bavarian
+36,Bean
+37,Beans
+38,Beef
+39,Beer
+40,Beets
+41,Beignets
+42,Benedict
+43,Berries
+44,Berry
+45,Big Mac
+46,Blackberry
+47,Blade Chop
+48,Blade Pot
+49,BlancMange
+50,Blender Cress
+51,Bleu
+52,Bleu Cheese
+53,Blintzes
+54,Blooms
+55,Blueberry
+56,Boil
+57,Boiled
+58,Bombes
+59,Bone
+60,Boneless Chuck
+61,Bouillon
+62,Boysenberry
+63,Braising
+64,Brandy
+65,Bread
+66,Bread Sticks
+67,Breaded
+68,Breads
+69,Breakfast
+70,Breast
+71,Brioche
+72,Brisket
+73,Brittle
+74,Broccoli
+75,Broiled
+76,Broiling
+77,Broth
+78,Brown
+79,Brown Betty
+80,Brownies
+81,Brussel Sprouts
+82,Buckwheat
+83,Burgers
+84,Burgundy
+85,Burritos
+86,Butcher
+87,Butter
+88,Butter Pecan
+89,Buttermilk
+90,Butterscotch
+91,Cabbage
+92,Caesar
+93,Cake
+94,Cakes
+95,California
+96,Calzone
+97,Canadian
+98,Canapes
+99,Candy
+100,Canneloni
+101,Canning
+102,Caper
+103,Caramel
+104,Carp
+105,Carrot
+106,Carrots
+107,Casing
+108,Catalina
+109,Catsup
+110,Cauliflower
+111,Caviar
+112,Celery
+113,Cereal
+114,Cereals
+115,Champagne
+116,Cheddar
+117,Cheese
+118,Cheese Ball
+119,Cheese Burger
+120,Cheeseburger
+121,Cheeses
+122,Cherries
+123,Cherry
+124,Chestnut
+125,Chicken
+126,Chiffonade
+127,Chili Burger
+128,Chinese
+129,Chocolate
+130,Chocolate Chip
+131,Chops
+132,Chutney
+133,Cider
+134,Cinnamon
+135,Clam Chowder
+136,Classic
+137,Clean
+138,Club
+139,Cocktail
+140,Cocktail Sauce
+141,Cocoa
+142,Coconut
+143,Cod
+144,Coddled
+145,Coffee
+146,Cola
+147,Colby
+148,Cole Slaw
+149,Cone
+150,Confections
+151,Cook
+152,Cookies
+153,Corn
+154,Corn Meal
+155,Corned Beef
+156,Cottage
+157,Cottage Cheese
+158,Cow
+159,Crab
+160,Cracked
+161,Crackers
+162,Cranberry
+163,Cream
+164,Cream Cheese
+165,Creamed
+166,Creams
+167,Creamy
+168,Creme Frite
+169,Crepe
+170,Crescents
+171,Crispy
+172,Croquettes
+173,Croutons
+174,Crown Roast
+175,Crullers
+176,Crumpets
+177,Crust
+178,Cucumber
+179,Cucumbers
+180,Culture
+181,Cup
+182,Cured
+183,Curly Fries
+184,Currant
+185,Curried
+186,Curry
+187,Custard
+188,Custards
+189,Dark
+190,Date Loaf
+191,Decorative
+192,Deliver
+193,Dessert
+194,Desserts
+195,Deviled
+196,Dipped
+197,Dips
+198,Divinity
+199,Double Burger
+200,Dough
+201,Doughnuts
+202,Dressing
+203,Dried
+204,Dried Fruit
+205,Drinks
+206,Dumplings
+207,Easy Over
+208,Eclair
+209,Egg
+210,Egg Plant
+211,Eggnog
+212,Eggs
+213,Elderberry
+214,English Chop
+215,Extra
+216,Fast Food
+217,Fat
+218,Figs
+219,Fillet
+220,Fillets
+221,Filling
+222,Fish
+223,Fish and Chips
+224,Fish Sticks
+225,Flapjacks
+226,Flavored
+227,Flounder
+228,Flour
+229,Fluffy
+230,Fondant
+231,Food
+232,French
+233,French Fries
+234,Frenched Leg
+235,Fresh
+236,Fried
+237,Frittata
+238,Fritters
+239,Frosting
+240,Frosty
+241,Frozen
+242,Fruit
+243,Fruit Whip
+244,Fruits
+245,Fry
+246,Fudge
+247,Garlic
+248,Garnish
+249,Gelatin
+250,German
+251,Giblets
+252,Ginger
+253,Glazed
+254,Glazes
+255,Gluten
+256,Gnocchi
+257,Gooseberry
+258,Grain
+259,Grape
+260,Grape Juice
+261,Grapefruit
+262,Grapes
+263,Gravy
+264,Grease
+265,Greasy
+266,Green
+267,Green Beans
+268,Greens
+269,Griddle
+270,Grill
+271,Guacamole
+272,Guava
+273,Gumbo
+274,Haddock
+275,Ham
+276,Hamburger
+277,Hams
+278,Hard
+279,Harvest
+280,Hawaiian
+281,Health
+282,Hermits
+283,Hind Shank
+284,Hogs
+285,Hominy
+286,Hoof
+287,Hors D'Oeuvres
+288,Horseradish
+289,Hot Cocoa
+290,Hot Pepper
+291,Huckleberry
+292,Husk
+293,Ice Cream
+294,Ice Tea
+295,Iceberg
+296,Icing
+297,In A Nest
+298,Instant
+299,Italian
+300,Jack
+301,Jam
+302,Jams
+303,Jars
+304,Jellies
+305,Jello
+306,Jelly
+307,Juice
+308,Kebabs
+309,Kernel
+310,Kneading
+311,Kumquats
+312,Lamb
+313,Lard
+314,Lasagna
+315,Layer
+316,Leaf
+317,Leg
+318,Legs
+319,Legume
+320,Lemon
+321,Lemonade
+322,Lettuce
+323,Limade
+324,Lime
+325,Links
+326,Liver
+327,Loaf
+328,Lobster
+329,Loganberry
+330,Loin
+331,Loin Chop
+332,Loin Roast
+333,Loins
+334,Lollipops
+335,Long cut
+336,Longhorn
+337,Lorenzo
+338,Low Calorie
+339,Macaroni
+340,Macaroons
+341,Mackerel
+342,Mangoes
+343,Manicotti
+344,Maple
+345,Marble
+346,Marinara
+347,Marinated
+348,Marmalade
+349,Marshmallows
+350,Martini
+351,Masked
+352,Mayo
+353,Mayonnaise
+354,Meal
+355,Meat
+356,Meat Ball
+357,Meatball
+358,Medium
+359,Melons
+360,Meringue
+361,Mild
+362,Milk
+363,Milk Shake
+364,Mincemeat
+365,Minestrone
+366,Mint
+367,Mints
+368,Mixed Berry
+369,Mixed Fruit
+370,Mixing
+371,Mocha
+372,Molasses
+373,Mont Blanc
+374,Monterrey Jack
+375,Moonshine
+376,Mornay
+377,Mostaccioli
+378,Mousse
+379,Mousses
+380,Mozzarella
+381,Mozzerella
+382,Munster
+383,Mushroom
+384,Mushroom Burger
+385,Mushrooms
+386,Mustard
+387,Nantua
+388,Nectar
+389,Newburg
+390,No Bake
+391,Noodles
+392,Nougat
+393,Nuggets
+394,Nut
+395,Nuts
+396,Oatmeal
+397,Oil
+398,Oink
+399,Okra
+400,Olives
+401,Omelet
+402,Onion
+403,Onions
+404,Orange
+405,Orange Juice
+406,Oregano
+407,Oxtail
+408,Oyster
+409,Oysters
+410,Pan
+411,Panades
+412,Pancake
+413,Pancakes
+414,Paprika
+415,Paradise
+416,Parfaits
+417,Parmesan
+418,Pasta
+419,Pastry
+420,Pate Brisee
+421,Patties
+422,Peach
+423,Peaches
+424,Peanut
+425,Peanut Butter
+426,Pears
+427,Peas
+428,Pecan
+429,Pepper
+430,Pepper Pot
+431,Peppermint
+432,Pepperoni
+433,Peppers
+434,Persimmon
+435,Pfannkuchen
+436,Philly Burger
+437,Pickled
+438,Pickles
+439,Pies
+440,Pig
+441,Pigs
+442,Pineapple
+443,Pistachio
+444,Pizza
+445,Pizza Burger
+446,Pizzeria
+447,Plain
+448,Plum
+449,Plums
+450,Poached
+451,Poaching
+452,Polenta
+453,Popcorn
+454,Popsicle
+455,Pork
+456,Porterhouse
+457,Pot Roast
+458,Potato
+459,Poulette
+460,Pound
+461,Pralines
+462,Preserves
+463,Pressure
+464,Pretzel
+465,Proofing
+466,Proscuitto
+467,Provolone
+468,Pudding
+469,Pumpkin
+470,Punch
+471,Quaker
+472,Quenelles
+473,Quick
+474,Quince
+475,Rack of Lamb
+476,Radish
+477,Raisin
+478,Ranch
+479,Raspberry
+480,Ravigote
+481,Ravioli
+482,Red Snapper
+483,Rhubarb
+484,Rib Chop
+485,Rib Roast
+486,Rib Steak
+487,Ribbon
+488,Riblets
+489,Ribs
+490,Rice
+491,Rice Krispy
+492,Roast
+493,Roast Beef
+494,Rolled
+495,Rolling
+496,Rolls
+497,Romaine
+498,Roman
+499,Root Beer
+500,Roquefort
+501,Round
+502,Round Steak
+503,Rum
+504,Rum Drops
+505,Rump
+506,Rye
+507,Salad
+508,Salads
+509,Salmon
+510,Salt
+511,Salted
+512,Sandwiches
+513,Saratoga Chops
+514,Sauce
+515,Sauces
+516,Sausage
+517,Sauteed
+518,Savories
+519,Scotch
+520,Scrambled
+521,Seal
+522,Seeds
+523,Shakes
+524,Shank
+525,Shaping
+526,Shark
+527,Sharp
+528,Shells
+529,Sherbet
+530,Sherry
+531,Short Ribs
+532,Shoulder
+533,Shrimp
+534,Single
+535,Sirloin
+536,Skin
+537,Slice
+538,Slices
+539,Smitane
+540,Smoked
+541,Smorgasbord
+542,Snaps
+543,Snout
+544,Snow Cone
+545,Soda
+546,Soft
+547,Sole
+548,Soubise
+549,Souffles
+550,Soups
+551,Sour Cream
+552,Sour Dough
+553,Sour Milk
+554,Sow
+555,Spaghetti
+556,Spanish
+557,Spatzen
+558,Spice
+559,Spiced Pear
+560,Spicy
+561,Spinach
+562,Split Pea
+563,Sprouts
+564,Squares
+565,Squash
+566,Starch
+567,Steak
+568,Steam
+569,Steaming
+570,Stew
+571,Sticks
+572,Strawberry
+573,Straws
+574,String
+575,Strudel
+576,Stuffed
+577,Stuffing
+578,Subs
+579,Sugar
+580,Supreme
+581,Suzette
+582,Sweet Sour
+583,Sweetener
+584,Swirl
+585,Swiss
+586,Swiss Burger
+587,Syrup
+588,T Bone
+589,Taco Burger
+590,Tacos
+591,Taffy
+592,Take Out
+593,Tapioca
+594,Tartar
+595,Tartar Sauce
+596,Tarts
+597,Tenderloin
+598,Tetrazzini
+599,Thick
+600,Thigh
+601,Thin
+602,Timbales
+603,Toast
+604,Tomato
+605,Tomato Juice
+606,Tomato Sauce
+607,Tomatoes
+608,Top Round
+609,Toppings
+610,Tossed
+611,Tostada
+612,Trout
+613,Truffles
+614,Tuna
+615,Turkey
+616,Tutti Frutti
+617,Upside Down
+618,Vanilla
+619,Vegetable
+620,Vegetables
+621,Veloute
+622,Vinegar
+623,Wafers
+624,Waffles
+625,Water
+626,Water Cress
+627,Watermelon
+628,Wax Beans
+629,Wheat
+630,Whiskey
+631,White
+632,Whole Grain
+633,Wholesome
+634,Whopper
+635,Wild
+636,Wine
+637,Wing
+638,Yeast
+639,Yellow
+640,Yogurt
+641,Yoplait
+642,Zucchini
