@@ -15,7 +15,7 @@ See if you can guess the word before your hung!
 
 This is a game that interests people of all ages.
 
-The card matching game is an excellent resource to Learn How to Program C# Games!
+The hangman game is an excellent resource to Learn How to Program C# Games!
 
 Features:
 
