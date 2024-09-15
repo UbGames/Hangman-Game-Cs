@@ -2,6 +2,8 @@
 
 ![HangManCS_1_850](https://github.com/user-attachments/assets/2a7db636-c8a6-49b7-98db-dfd7c56d30e4)
 
+![HangManCS_1_450](https://github.com/user-attachments/assets/82a74884-260f-415e-b5f4-8ae841c6ede5)
+
 The HangMan game is built in C# and is a popular brain teaser game.
 
 Hang Man is easy to play, but can you become an expert? You can select either Beginner or Advanced level of play.
