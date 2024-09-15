@@ -1,12 +1,6 @@
 # Hangman-Game-Cs
 
-![HangManCS_1_850](https://github.com/user-attachments/assets/2a7db636-c8a6-49b7-98db-dfd7c56d30e4)
-
 ![HangManCS_1_650](https://github.com/user-attachments/assets/a5a58488-8e04-4c2b-a947-f01c77f8f72b)
-
-![HangManCS_1_550](https://github.com/user-attachments/assets/aedbf24d-b0a1-481d-bb03-6be98e438e37)
-
-![HangManCS_1_450](https://github.com/user-attachments/assets/82a74884-260f-415e-b5f4-8ae841c6ede5)
 
 The HangMan game is built in C# and is a popular brain teaser game.
 
